@@ -8,3 +8,6 @@ https://blog.logrocket.com/flutter-layouts-guide-margins-padding/
 
 // Provider package
 https://pub.dev/packages/provider
+
+// For Android Build
+flutter build apk
